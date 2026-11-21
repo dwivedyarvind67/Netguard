@@ -1,0 +1,16 @@
+# Compiled binaries
+/netguard
+
+# Compiled eBPF objects
+*.o
+
+# Test outputs
+*.test
+coverage.out
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
